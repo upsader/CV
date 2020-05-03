@@ -54,7 +54,13 @@ img {
 }
 
 .container {
+    position: relative;
     max-width: 1290px;
 	margin: auto;
     padding: 15px 0;
+}
+
+.skills {
+    position: absolute;
+    right: 185px;
 }
