@@ -1,0 +1,60 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+    background-color: #f4f4f4;
+    font-family: "Arvo", cursive;
+}
+
+.personal-info h1 {
+    position: absolute;
+    left: 38%;
+    top: 14%;
+    letter-spacing: 10px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 76em;
+    margin: auto;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.justify-content-around {
+    justify-content: space-around;
+}
+
+.d-flex {
+    display: flex;
+}
+
+header {
+    padding: 25px 0 25px 0;
+}
+
+table {
+    border-spacing: 1cm 1em;
+}
+
+.personal-info ul {
+    padding: 30px 0 0 0;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.container {
+    max-width: 1290px;
+	margin: auto;
+    padding: 15px 0;
+}
